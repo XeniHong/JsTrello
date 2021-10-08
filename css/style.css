@@ -1,0 +1,10 @@
+.desk{
+    display: flex;
+    
+}
+.block{
+    display: flex;
+    margin: 8px;
+    border: 20px black;
+}
+

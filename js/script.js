@@ -5,7 +5,7 @@ btnCreateList.addEventListener("click", function(){
     let list = document.createElement("div");
     let listName = document.getElementById("list-name").value;
     list.innerHTML = listName;
-    const menu = document.querySelector(".menu");
+    const menu = document.querySelector(".desk");
     menu.append(list);
 });
 

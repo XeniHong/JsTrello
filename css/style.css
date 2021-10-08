@@ -1,11 +1,13 @@
 .desk{
-    display: flex;
-    
+    display: flex;    
 }
 .block{
     display: flex;
     margin: 8px;
-    border: 20px black;
-    background: grey;
+}
+.menu{    
+    border: solid;
+    margin: 5px;
+    float: left;
 }
 
